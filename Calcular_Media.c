@@ -1,3 +1,9 @@
+/*
+Autor: Cristina Ribeiro
+Codigo para calcular Media do Aluno
+Uri Online Judge
+*/
+
 /*Leia os valores de dois pontos flutuantes (float) de dupla precisão A e B, correspondentes a duas notas dos alunos. 
 Depois disso, calcule a média do aluno, considerando que a nota A pesa 3,5 e B 7,5. 
 Cada nota pode variar de zero a dez, sempre com um dígito após o ponto decimal. 
